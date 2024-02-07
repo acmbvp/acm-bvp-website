@@ -4,12 +4,13 @@
     <img src="./src/assets/acm-logo/ACM-BVP-logo.png" alt="ACM BVP Logo" width="150">
   </a>
 
-  <h3 align="center">Official ACM BVP Website</h3>
+  <h3 align="center">Official ACM BVP Website</h3> 
 
   <p align="center">
     <a href="https://www.codacy.com/manual/dakshkhetan/acm-bvp-website/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=dakshkhetan/acm-bvp-website&amp;utm_campaign=Badge_Grade"><img src="https://app.codacy.com/project/badge/Grade/0eb2af24b1fb4d579d39acd20b6416f3"/></a>
     <img alt="GitHub" src="https://img.shields.io/github/license/dakshkhetan/acm-bvp-website" />
-    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/dakshkhetan?style=social" />
+    <a href="https://www.linkedin.com/in/sehajdeep-singh-/"><img alt="Linkdin Follow" src="https://img.shields.io/badge/linkedin.com%2Fin%2Fsehajdeep-singh-%2F?style=social&logo=linkdin&label=Follow-%40Sehajdeep&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsehajdeep-singh-%2F"/></a>
+    
   </p>
 
   <p align="center">
@@ -26,7 +27,7 @@ Start the project locally.
 Fork the repository, then clone the repo locally by running command:
 
 ```sh
-git clone https://github.com/dakshkhetan/acm-bvp-website.git
+git clone https://github.com/SehajDeepSingh26/ACM-BVP-website.git
 ```
 
 ### Step 2: Install dependencies
@@ -133,4 +134,4 @@ git push <YOUR_FORKED_REPO_URL> <YOUR_BRANCH_NAME>
 
 ---
 
-Made with :heart: by [Daksh Khetan](https://dakshkhetan.now.sh/).
+Made with :heart: by [Sehajdeep Singh](https://github.com/SehajDeepSingh26).
